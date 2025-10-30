@@ -199,38 +199,6 @@ I believe in:
 
 ---
 
-## 🎨 Featured Projects Showcase
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 NeuroPath AI
-**AI-Powered Career Guidance**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rubipreethi-official&repo=Neuropath-AI&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)](https://github.com/rubipreethi-official/Neuropath-AI)
-
-*Helping students discover their perfect career path using neural networks*
-
-</td>
-<td width="50%">
-
-### 🎯 Mission Focus
-**YouTube Productivity Tracker**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rubipreethi-official&repo=mission-focus&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)](https://github.com/rubipreethi-official/mission-focus)
-
-*AI-powered extension to reclaim your time and boost productivity*
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 💼 Freelancing & Collaboration
 
