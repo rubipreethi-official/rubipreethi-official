@@ -72,13 +72,13 @@ Backend Powerhouse ⚡
 
 ### 🤖 AI & Machine Learning
 - **Artificial Neural Networks (ANN)** → Predictive modeling & intelligent systems
-- **Google Gemini API** → Advanced AI integrations
+- **Google Gemini API, Chatgpt, Poe and claude, Maps APIs** → Advanced AI integrations
 - **AI-Powered Analytics** → Making data speak
 - **Natural Language Processing** → Understanding human intent
 
 ### 🎨 Design & UX
 - **UI/UX Design** → User experience is everything
-- **Figma & Adobe XD** → Prototyping perfection
+- **Figma ** → Prototyping perfection
 - **Design Systems** → Consistency at scale
 - **User Research** → Building what users actually need
 
@@ -102,7 +102,7 @@ Backend Powerhouse ⚡
 ## 🏆 Achievements & Milestones
 
 ### 🥇 Hackathon Champion
-- **Multiple hackathon wins** across various domains
+- ** hackathon wins** across various domains
 - Built solutions under pressure, delivered under deadlines
 - Collaborated with amazing teams to create award-winning projects
 - Turned ideas into working prototypes in 24-48 hours
@@ -112,10 +112,8 @@ Backend Powerhouse ⚡
 </div>
 
 ### 💼 Freelancing Success
-- **Delivered 20+ successful projects** for clients worldwide
-- From startups to established businesses
-- 100% client satisfaction rate
-- Building long-term relationships through quality work
+- **Delivered  successful project for client
+-
 
 ### 🚀 Notable Projects
 ```
@@ -297,10 +295,10 @@ const collaboration = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubipreethi-official)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubi-preethi-aa9a88290/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](rubipreethi.netlify.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpofficialcontact@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rubipreethi2004?t=4HFIS53O0PohQtNrH1Gtbw&s=09)
 
 </div>
 
@@ -316,51 +314,8 @@ const collaboration = {
 
 ---
 
-## 🎮 When I'm Not Coding...
 
-<table>
-<tr>
-<td width="33%">
-<div align="center">
-📚 <b>Learning</b><br/>
-Exploring new technologies,<br/>
-reading tech blogs,<br/>
-taking online courses
-</div>
-</td>
-<td width="33%">
-<div align="center">
-🎨 <b>Designing</b><br/>
-Crafting beautiful UIs,<br/>
-experimenting with colors,<br/>
-perfecting animations
-</div>
-</td>
-<td width="33%">
-<div align="center">
-🤝 <b>Contributing</b><br/>
-Open source projects,<br/>
-helping fellow developers,<br/>
-sharing knowledge
-</div>
-</td>
-</tr>
-</table>
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=700&h=300&fit=crop" alt="Collaboration and Learning"/>
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [ ] Contribute to 10+ open source projects
-- [ ] Launch 3 production-ready SaaS products
-- [ ] Mentor 50+ aspiring developers
-- [ ] Win a major international hackathon
-- [ ] Reach 1000+ GitHub stars across projects
-- [ ] Build AI tools that impact 10,000+ users
 
 ---
 
@@ -378,13 +333,7 @@ sharing knowledge
 
 ---
 
-### ⭐ If you like what I do, consider giving my projects a star!
 
-```ascii
-   ⭐
-  ⭐⭐⭐
- ⭐⭐⭐⭐⭐
-⭐⭐⭐⭐⭐⭐⭐
 ```
 
 **Let's create technology that matters! 🚀**
@@ -396,7 +345,7 @@ sharing knowledge
 <div align="center">
 
 *"Building the future, one commit at a time."* 💻✨
-
+*"Commit to your work!push yourself!, Life will pull you hard like a arrow in the bow to launch you somewhere great"*
 **Happy Coding!** 👨‍💻
-
+      **RUBI PREETHI:)**
 </div>
