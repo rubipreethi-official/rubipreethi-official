@@ -195,16 +195,7 @@ I believe in:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rubipreethi-official&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rubipreethi-official&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubipreethi-official&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" width="48%"/>
-
-</div>
 
 ---
 
@@ -327,22 +318,9 @@ const collaboration = {
 
 ---
 
-### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=rubipreethi-official&color=6C63FF&style=for-the-badge)
-
----
-
-
-```
 
 **Let's create technology that matters! 🚀**
-
-</div>
-
----
-
-<div align="center">
 
 *"Building the future, one commit at a time."* 💻✨
 *"Commit to your work!push yourself!, Life will pull you hard like a arrow in the bow to launch you somewhere great"*
